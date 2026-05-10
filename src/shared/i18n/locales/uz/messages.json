@@ -1,0 +1,23 @@
+{
+  "delete_confirm": "Siz rostanxam o'chirmoqchimisiz?",
+  "delete_confirm_message": "Bu harakatni qaytarib bo'lmaydi. O'chirilgan ma'lumot boshqa joyga ko'chiriladi.",
+  "hard_delete_confirm": "Siz rostanxam o'chirilgan bu elementni butunlay o'chirmoqchimisiz?",
+  "hard_delete_confirm_message": "Bu amalni qaytarib bo'lmaydi va ma'lumot butunlay o'chiriladi.",
+  "restore_confirm": "Siz rostanxam ushbu elementni qaytarmoqchimisiz?",
+  "restore_success": "Element muvaffaqiyatli qaytarildi",
+  "delete_success": "Element muvaffaqiyatli o'chirildi",
+  "error_loading": "Ma'lumotlarni yuklashda xatolik",
+  "error_saving": "Ma'lumotlarni saqlashda xatolik",
+  "error_deleting": "Ma'lumotlarni o'chirishda xatolik",
+  "error_restoring": "Ma'lumotlarni qaytarishda xatolik",
+  "network_error": "Tarmoq xatoligi",
+  "try_again": "Qayta urinib ko'ring",
+  "no_permission": "Sizga bu amalni bajarish uchun ruxsat yo'q",
+  "unauthorized": "Ruxsat berilmagan",
+  "forbidden": "Kirish taqiqlangan",
+  "not_found": "Topilmadi",
+  "server_error": "Server xatoligi",
+  "invalid_input": "Noto'g'ri kiritish",
+  "required_field": "Majburiy maydon",
+  "processing": "Qayta ishlanmoqda..."
+}
